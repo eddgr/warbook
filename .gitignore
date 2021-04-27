@@ -1,0 +1,8 @@
+# misc
+__pycache__
+py.ve
+env_vars.sh
+
+# output files
+rawbook.csv
+warbook.md
