@@ -2,6 +2,7 @@ import collections
 import csv
 import datetime
 import os
+import readline
 import sys
 
 import boto3
