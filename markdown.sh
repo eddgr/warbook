@@ -17,3 +17,5 @@ python app.py to_markdown
 echo "Converted to markdown"
 
 deactivate
+
+cd -

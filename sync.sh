@@ -21,3 +21,5 @@ python app.py sync_s3 warbook.md
 echo "Warbook synced"
 
 deactivate
+
+cd -

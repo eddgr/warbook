@@ -17,3 +17,5 @@ python app.py add_entry
 echo "Entry added"
 
 deactivate
+
+cd -
