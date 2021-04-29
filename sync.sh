@@ -14,6 +14,8 @@ source py.ve/bin/activate
 
 source env_vars.sh
 
+python app.py to_markdown
+
 python app.py sync_s3 rawbook.csv
 
 python app.py sync_s3 warbook.md
